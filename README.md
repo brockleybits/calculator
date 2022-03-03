@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 A rudimentary Python calculator using the TKinter GUI tool.
 
 ## To Launch:
